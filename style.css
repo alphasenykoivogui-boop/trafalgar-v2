@@ -27,8 +27,8 @@ linear-gradient(135deg,#05070d,#0b1120);
 .container{
 position:relative;
 z-index:2;
-width:90%;
-max-width:490px;
+width:92%;
+max-width:430px;
 }
 
 #loadingPage,
@@ -275,7 +275,7 @@ letter-spacing:4px;
 
 .signature p{
 
-margin-top:3px;
+margin-top:8px;
 
 color:#00ff9d;
 
@@ -285,7 +285,7 @@ color:#00ff9d;
 
 display:block;
 
-margin-top:3px;
+margin-top:8px;
 
 font-size:12px;
 
